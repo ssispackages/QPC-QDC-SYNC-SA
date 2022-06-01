@@ -1,0 +1,10 @@
+<?xml version="1.0"?><DTSConfiguration><DTSConfigurationHeading>
+	<DTSConfigurationFileInfo GeneratedBy="PIONE0\palani" GeneratedFromPackageName="Package" GeneratedFromPackageID="{3CF3039E-D304-4BF1-8023-36235582F18F}" GeneratedDate="12/19/2021 2:29:39 PM"/>
+</DTSConfigurationHeading>
+	<Configuration ConfiguredType="Property" Path="\Project.Connections[DestinationDB QDC].Properties[ConnectionString]" ValueType="String">
+		<ConfiguredValue>Data Source=164.52.218.134;User ID=sa;Password=Pione@123;Initial Catalog=QDCUAT;Provider=SQLNCLI11.1;Auto Translate=False;</ConfiguredValue>
+	</Configuration>
+	<Configuration ConfiguredType="Property" Path="\Project.Connections[SourceDB QPC].Properties[ConnectionString]" ValueType="String">
+		<ConfiguredValue>Data Source=qoiprprod.database.windows.net;User ID=qoipradmin;Password=WRBMZf2!3$^myK;Initial Catalog=EvolveOnline;Provider=SQLNCLI11.1;Auto Translate=False;</ConfiguredValue>
+	</Configuration>
+</DTSConfiguration>
